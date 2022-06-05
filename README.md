@@ -6,24 +6,14 @@ Action strategy game with objective to hunt hidden treasures under the sea guard
 
 <br>
 <p align="center">
-  <img src="docs/1.gif">
+  <img src="docs/1.gif" width="40%">
+  <img src="docs/2.gif" width="40%">
 </p>
 <br>
 
 <br>
 <p align="center">
-  <img src="docs/2.gif">
-</p>
-<br>
-
-<br>
-<p align="center">
-  <img src="docs/3.gif">
-</p>
-<br>
-
-<br>
-<p align="center">
-  <img src="docs/4.gif">
+  <img src="docs/3.gif" width="40%">
+  <img src="docs/4.gif" width="40%">
 </p>
 <br>
