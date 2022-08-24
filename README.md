@@ -17,3 +17,9 @@ Action strategy game with objective to hunt hidden treasures under the sea guard
   <img src="docs/4.gif" width="40%">
 </p>
 <br>
+
+## Contributors
+* Benny Richardson
+* Kevin Hendy
+* Ventryshia Andiyani
+* Wilson Philips
